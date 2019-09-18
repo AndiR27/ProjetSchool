@@ -16,7 +16,7 @@ print(z)
 
 if z > 0: print("Il reste" ,z, "kg de libre")
 
-Audrey: int = 17
+Audrey = 17
 Marie = (Audrey * 2) + 6.75
 Max = Marie - 9.27
 Laura = Max - 7.29
@@ -27,3 +27,4 @@ print("distance parcourue par Max :",Max, "km")
 print("distance parcourue par Laura :",Laura, "km")
 print("distance parcourue par Audrey :",Audrey, "km")
 print("distance parcourue par Jean :",Jean, "km")
+print("hello git")
